@@ -1,0 +1,28 @@
+{
+  "name": "pardis",
+  "version": "1.0.0",
+  "description": "Pardis Exam System API",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "pardis"
+  },
+  "author": "Radinmsv",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.1.2",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "eslint": "^9.37.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
